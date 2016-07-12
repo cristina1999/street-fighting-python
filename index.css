@@ -2,16 +2,26 @@ body {
   background-color: black;
   }
 h1 {
-  color: lime
+  color: lime;
+  font-family: monospace
 }
 p {
   color: lightgrey;
   font-size: 17px;
+  font-family: monospace
+}
+#section {
+  background-color: white;
+  text-align: left;
+  padding: 10px
 }
 li
 {
   color: lime
+  
 }
 a {
-  color: lightgrey
+  color: lightgrey;
+  font-family: monospace;
+  font-size: 15px;
 }
