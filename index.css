@@ -5,20 +5,17 @@ h1 {
   color: lime;
   font-family: monospace
 }
+span {
+  color: lime
+}
 p {
   color: lightgrey;
   font-size: 17px;
   font-family: monospace
 }
-#section {
-  background-color: white;
-  text-align: left;
-  padding: 10px
-}
 li
 {
   color: lime
-  
 }
 a {
   color: lightgrey;
