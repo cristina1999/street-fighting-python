@@ -22,3 +22,13 @@ a {
   font-family: monospace;
   font-size: 15px;
 }
+.blink {
+  height: 20px;
+  width: 10px;
+  background-color: lime;
+  animation: blink 500ms infinite alternate;  
+}
+@keyframes blink {
+  from {opacity:1}
+  to {opacity:0}
+}
