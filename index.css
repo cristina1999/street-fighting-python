@@ -6,7 +6,8 @@ h1 {
   font-family: monospace
 }
 span {
-  color: lime
+  color: lime;
+  font-family: monospace
 }
 p {
   color: lightgrey;
