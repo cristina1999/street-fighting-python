@@ -9,13 +9,11 @@ span {
   color: lime;
   font-family: monospace
 }
-li
-{
+li {
   color: lightgrey;
   font-size: 17px;
   font-family: monospace;
-  }
-  
+}
 p {
   color: lightgrey;
   font-size: 14px;
