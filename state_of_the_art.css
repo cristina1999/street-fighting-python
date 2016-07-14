@@ -13,13 +13,13 @@ li
 {
   color: lightgrey;
   font-size: 17px;
-  font-family: monospace
+  font-family: monospace;
   }
   
-p {color: lightgrey;
+p {
+  color: lightgrey;
   font-size: 14px;
-  font-family: monospace
-}
+  font-family: monospace;
 }
 a {
   color: lightgrey;
