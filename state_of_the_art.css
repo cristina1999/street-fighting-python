@@ -6,7 +6,8 @@ h1 {
   font-family: monospace
 }
 span {
-  color: lime
+  color: lime;
+  font-family: monospace
 }
 li
 {
@@ -21,4 +22,14 @@ a {
 }
 h2 {  color: lime;
   font-family: monospace  
+}
+.blink {
+  height: 20px;
+  width: 10px;
+  background-color: lime;
+  animation: blink 500ms infinite alternate;  
+}
+@keyframes blink {
+  from {opacity:1}
+  to {opacity:0}
 }
