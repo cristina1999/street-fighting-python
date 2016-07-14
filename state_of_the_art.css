@@ -1,6 +1,17 @@
 body {
   background-color: black;
   }
+button {
+  background-color: lime;
+  border-radius: 12px;
+  border: lime;
+  color: black;
+  padding: 6px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+}
 h1 {
   color: lime;
   font-family: monospace
