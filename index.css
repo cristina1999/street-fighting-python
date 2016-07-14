@@ -15,12 +15,13 @@ p {
 }
 li
 {
-  color: lime
+  color: lime;
+  font-family: monospace
 }
 a {
   color: lightgrey;
   font-family: monospace;
-  font-size: 15px;
+  font-size: 17px;
 }
 .blink {
   height: 20px;
